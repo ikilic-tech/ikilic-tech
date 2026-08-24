@@ -36,6 +36,7 @@ I'm particularly interested in:
 
 I write about software development, technology, AI and lessons learned from building software products over the years.
 
+- [Web](https://ikilic.com)
 - [Medium](https://medium.com/@ikilic)
 - [LinkedIn](https://www.linkedin.com/in/ikilic/)
 
