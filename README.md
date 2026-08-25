@@ -4,7 +4,7 @@
 
 I build software products and business systems, with a focus on **enterprise software, SaaS, cloud, mobile applications, and AI-powered business workflows**.
 
-Over the years, I've worked on software used in real-world business environments where reliability, integration, synchronization, and operational simplicity matter.
+I've spent my career building software for real-world business environments, where reliability, integration, synchronization, scalability, and operational simplicity matter.
 
 ## What I Work On
 
@@ -21,9 +21,13 @@ Over the years, I've worked on software used in real-world business environments
 
 My software journey started in 2003, working with technologies such as WAP, Symbian and Windows Mobile.
 
-Since then, I've worked across mobile platforms, enterprise systems, cloud architectures and SaaS products.
+Since then, I've worked across mobile platforms, enterprise systems, ERP integrations, cloud architectures, SaaS products, and business applications.
 
-One area that has remained consistent throughout that journey is solving **real business problems with software**.
+I've particularly enjoyed working on systems where **mobile applications, enterprise platforms, and real-world business processes** need to work together reliably.
+
+One thing has remained consistent throughout that journey:
+
+**solving real business problems with software.**
 
 Today, that interest is increasingly focused on AI.
 
@@ -53,7 +57,7 @@ It also explores the engineering challenges around AI integration, including str
 
 [Explore AI Business Workflow →](https://github.com/ikilic-tech/ai-business-workflow)
 
-I'm gradually building and sharing more open-source work around **AI, enterprise software, software architecture, and business automation**.
+I'm building and sharing open-source work around **AI, enterprise software, software architecture, and business automation**.
 
 ## Writing
 
@@ -71,12 +75,6 @@ You can find my work here:
 - [Website](https://ikilic.com)
 - [Medium](https://medium.com/@ikilic)
 - [LinkedIn](https://www.linkedin.com/in/ikilic/)
-
-## What I'm Exploring
-
-> **How do we make AI useful, reliable, and measurable inside real business workflows?**
-
-That's one of the questions I'm exploring through software, open source, and writing.
 
 ---
 
