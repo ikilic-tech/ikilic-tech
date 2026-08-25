@@ -1,48 +1,82 @@
 # Hi, I'm İbrahim Kılıç 👋
 
-I'm CTO & Co-Founder at [Ekmob](https://ekmob.com), with 20+ years of experience building software products.
+**CTO & Co-Founder at [Ekmob](https://ekmob.com)**
 
-My career started in 2003, working on enterprise software, mobile applications and business systems long before smartphones became mainstream.
+I build software products and business systems, with a focus on **enterprise software, SaaS, cloud, mobile applications, and AI-powered business workflows**.
+
+Over the years, I've worked on software used in real-world business environments where reliability, integration, synchronization, and operational simplicity matter.
 
 ## What I Work On
 
 - Enterprise Software
-- Mobile Applications
 - SaaS Products
-- Field Sales & Operations
-- ERP Integrations
 - Business Process Automation
+- Field Sales & Operations
+- Mobile Applications
+- ERP Integrations
+- Cloud & Distributed Systems
 - Artificial Intelligence
 
-## A Few Things I've Worked With
+## From Mobile to AI
 
-Over the years, I've worked with technologies and platforms ranging from WAP, Symbian and Windows Mobile to Android, cloud platforms and modern SaaS architectures.
+My software journey started in 2003, working with technologies such as WAP, Symbian and Windows Mobile.
 
-I've also worked extensively on integrating mobile applications with enterprise systems and ERP platforms, particularly in environments where reliability, synchronization and real-world business processes matter.
+Since then, I've worked across mobile platforms, enterprise systems, cloud architectures and SaaS products.
+
+One area that has remained consistent throughout that journey is solving **real business problems with software**.
+
+Today, that interest is increasingly focused on AI.
 
 ## Current Focus
 
-I'm currently interested in how AI can move beyond chat interfaces and become part of real business workflows.
+I'm particularly interested in how AI can move beyond chat interfaces and become a reliable part of real business workflows.
 
-I'm particularly interested in:
+I'm exploring questions such as:
 
-- AI-powered business applications
-- Intelligent field operations
-- AI-assisted decision making
-- Enterprise software
-- Mobile and cloud architectures
-
-## Writing
-
-I write about software development, technology, AI and lessons learned from building software products over the years.
-
-- [Web](https://ikilic.com)
-- [Medium](https://medium.com/@ikilic)
-- [LinkedIn](https://www.linkedin.com/in/ikilic/)
+- How can AI turn business data into actionable insights?
+- How can AI work alongside deterministic business rules?
+- How can AI systems be evaluated and measured?
+- How do we build AI features that are reliable enough for enterprise software?
+- Where should AI make decisions, and where should humans remain in control?
 
 ## Open Source
 
-I'm gradually building and sharing open-source projects around software architecture, mobile systems, business applications and AI.
+### AI Business Workflow
+
+An open-source .NET project exploring how AI can become part of real business workflows.
+
+The project focuses on turning business data into structured insights, risk assessments, analysis, and recommended actions.
+
+**Business Data → AI Analysis → Structured Insight → Recommended Action**
+
+It also explores the engineering challenges around AI integration, including structured outputs, evaluation, security, testing, provider abstraction, cost, and latency.
+
+[Explore AI Business Workflow →](https://github.com/ikilic-tech/ai-business-workflow)
+
+I'm gradually building and sharing more open-source work around **AI, enterprise software, software architecture, and business automation**.
+
+## Writing
+
+I write about:
+
+- AI engineering
+- Enterprise software
+- Software architecture
+- Business applications
+- Technology leadership
+- Lessons learned from building software products
+
+You can find my work here:
+
+- [Website](https://ikilic.com)
+- [Medium](https://medium.com/@ikilic)
+- [LinkedIn](https://www.linkedin.com/in/ikilic/)
+
+## What I'm Exploring
+
+> **How do we make AI useful, reliable, and measurable inside real business workflows?**
+
+That's one of the questions I'm exploring through software, open source, and writing.
 
 ---
 
