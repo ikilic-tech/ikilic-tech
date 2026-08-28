@@ -1,29 +1,31 @@
-# Hi, I'm İbrahim Kılıç 👋
+# İbrahim Kılıç
 
 **CTO & Co-Founder at [Ekmob](https://ekmob.com)**
 
-I build software products and business systems, with a focus on **enterprise software, SaaS, cloud, mobile applications, and AI-powered business workflows**.
+Software architect and technology leader focused on **enterprise software, SaaS, cloud, mobile applications, and AI-powered business systems**.
 
-I've spent my career building software for real-world business environments, where reliability, integration, synchronization, scalability, and operational simplicity matter.
+I build software that turns complex business processes into scalable, reliable, and operationally simple systems.
 
-## What I Work On
+I've spent my career building software for real-world business environments, where reliability, integration, synchronization, scalability, and maintainability matter.
 
-- Enterprise Software
-- SaaS Products
+## Areas of Focus
+
+- Enterprise Software & SaaS
+- Software Architecture
 - Business Process Automation
+- AI-Powered Business Systems
 - Field Sales & Operations
 - Mobile Applications
-- ERP Integrations
+- ERP & Enterprise Integrations
 - Cloud & Distributed Systems
-- Artificial Intelligence
 
 ## From Mobile to AI
 
-My software journey started in 2003, working with technologies such as WAP, Symbian and Windows Mobile.
+My software journey started in 2003, working with technologies such as WAP, Symbian, and Windows Mobile.
 
 Since then, I've worked across mobile platforms, enterprise systems, ERP integrations, cloud architectures, SaaS products, and business applications.
 
-I've particularly enjoyed working on systems where **mobile applications, enterprise platforms, and real-world business processes** need to work together reliably.
+I've particularly enjoyed building systems where **mobile applications, enterprise platforms, and real-world business processes** need to work together reliably.
 
 One thing has remained consistent throughout that journey:
 
