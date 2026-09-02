@@ -19,6 +19,20 @@ I've spent my career building software for real-world business environments, whe
 - ERP & Enterprise Integrations
 - Cloud & Distributed Systems
 
+## Technology
+
+**Backend:** C#, .NET, ASP.NET Core, Entity Framework Core
+
+**Frontend:** Angular, React, TypeScript, JavaScript
+
+**AI:** LLMs, AI Agents, OpenAI APIs, AI Evaluation
+
+**Cloud:** Microsoft Azure, Google Cloud
+
+**Data:** SQL Server, Redis
+
+**Architecture:** Distributed Systems, Clean Architecture, DDD, CQRS, SOLID
+
 ## From Mobile to AI
 
 My software journey started in 2003, working with technologies such as WAP, Symbian, and Windows Mobile.
@@ -43,9 +57,12 @@ I'm exploring questions such as:
 - How can AI work alongside deterministic business rules?
 - How can AI systems be evaluated and measured?
 - How do we build AI features that are reliable enough for enterprise software?
+- How should AI decisions be governed, audited, and verified?
 - Where should AI make decisions, and where should humans remain in control?
 
 ## Open Source
+
+I'm building and sharing open-source projects around **AI engineering, enterprise software, business automation, and AI governance**.
 
 ### AI Business Workflow
 
@@ -59,7 +76,13 @@ It also explores the engineering challenges around AI integration, including str
 
 [Explore AI Business Workflow →](https://github.com/ikilic-tech/ai-business-workflow)
 
-I'm building and sharing open-source work around **AI, enterprise software, software architecture, and business automation**.
+### Policybound
+
+A lightweight governance middleware for AI agents focused on **policy enforcement, decision auditing, and verifiable receipts**.
+
+The project explores how AI-driven systems can operate within explicit policies while producing an auditable record of decisions and actions.
+
+[Explore Policybound →](https://github.com/ikilic-tech/policybound)
 
 ## Writing
 
@@ -68,6 +91,7 @@ I write about:
 - AI engineering
 - Enterprise software
 - Software architecture
+- AI governance
 - Business applications
 - Technology leadership
 - Lessons learned from building software products
