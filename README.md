@@ -1,6 +1,6 @@
 # İbrahim Kılıç
 
-**CTO & Co-Founder at [Ekmob](https://ekmob.com)**
+### CTO & Co-Founder, [Ekmob](https://ekmob.com) · Co-Founder, [AIForce Sales Labs](https://aiforcelabs.co.uk)
 
 Software architect and technology leader focused on **enterprise software, SaaS, cloud, mobile applications, and AI-powered business systems**.
 
@@ -21,17 +21,17 @@ I've spent my career building software for real-world business environments, whe
 
 ## Technology
 
-**Backend:** C#, .NET, ASP.NET Core, Entity Framework Core
+**Backend:** C#, .NET, ASP.NET Core, Entity Framework Core, Roslyn Analyzers
 
 **Frontend:** Angular, React, TypeScript, JavaScript
 
-**AI:** LLMs, AI Agents, OpenAI APIs, AI Evaluation
+**AI:** LLMs, AI Agents, AI Coding Agents, OpenAI APIs, AI Evaluation
 
 **Cloud:** Microsoft Azure, Google Cloud
 
-**Data:** SQL Server, Redis
+**Data:** SQL Server, PostgreSQL, Redis
 
-**Architecture:** Distributed Systems, Clean Architecture, DDD, CQRS, SOLID
+**Architecture:** Distributed Systems, Multi-Tenant SaaS, Clean Architecture, DDD, CQRS, SOLID
 
 ## From Mobile to AI
 
@@ -58,11 +58,27 @@ I'm exploring questions such as:
 - How can AI systems be evaluated and measured?
 - How do we build AI features that are reliable enough for enterprise software?
 - How should AI decisions be governed, audited, and verified?
+- How can we verify the code AI coding agents write, before it reaches production?
 - Where should AI make decisions, and where should humans remain in control?
 
 ## Open Source
 
 I'm building and sharing open-source projects around **AI engineering, enterprise software, business automation, and AI governance**.
+
+### TenantLint
+
+[![NuGet](https://img.shields.io/nuget/v/TenantLint.Analyzers.svg)](https://www.nuget.org/packages/TenantLint.Analyzers)
+[![Downloads](https://img.shields.io/nuget/dt/TenantLint.Analyzers.svg)](https://www.nuget.org/packages/TenantLint.Analyzers)
+
+A set of open-source Roslyn analyzers that catch **cross-tenant data leaks** in multi-tenant .NET applications at build time: in the IDE, in CI, and inside AI coding agents' build loop.
+
+The most dangerous bug in a multi-tenant SaaS doesn't crash anything: a single missing tenant filter can quietly show one customer's data to another. As AI coding agents write more of our code, these mistakes become easier to make and harder to spot. TenantLint turns them into precise build warnings that both developers and AI agents can act on.
+
+**AI writes code → dotnet build → TenantLint flags the leak → Agent or developer fixes it**
+
+It covers 27 diagnostics across EF Core query filters, raw SQL (EF Core, Dapper, ADO.NET), request input, pooled DbContexts, caching and static state; works with plain EF Core, Finbuckle.MultiTenant and ABP without any framework migration; and includes anti-tamper rules that flag when an agent silences a warning instead of fixing it. It was validated against real open-source multi-tenant projects.
+
+[Explore TenantLint →](https://github.com/ikilic-tech/TenantLint) · [Read the story →](https://medium.com/@ikilic/your-ai-coding-agent-can-leak-one-customers-data-to-another-and-every-test-will-still-pass-adb2c295e551)
 
 ### AI Business Workflow
 
@@ -95,6 +111,8 @@ I write about:
 - Business applications
 - Technology leadership
 - Lessons learned from building software products
+
+**Latest:** [Your AI coding agent can leak one customer's data to another — and every test will still pass](https://medium.com/@ikilic/your-ai-coding-agent-can-leak-one-customers-data-to-another-and-every-test-will-still-pass-adb2c295e551)
 
 You can find my work here:
 
